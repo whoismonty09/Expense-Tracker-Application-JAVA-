@@ -1,2 +1,16 @@
-# Expense-Tracker-Application-JAVA-
-A Java console-based expense tracker application that allows users to record, view, and store expenses using file handling and object-oriented programming.
+# Expense Tracker Application (Java)
+
+## Description
+A Java console application to track expenses and store them in a file.
+
+## Features
+- Add expenses
+- View expenses
+- Save and load from file
+- Calculate total expense
+
+## Concepts Used
+- OOP (classes & objects)
+- ArrayList
+- File handling
+- Calculations
